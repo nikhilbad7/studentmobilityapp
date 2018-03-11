@@ -128,8 +128,8 @@ public class studentmenu extends javax.swing.JFrame {
 
     private void jToggleButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton1ActionPerformed
 this.setVisible(false);
-studentlogin sl=new studentlogin();
-sl.setVisible(true);// TODO add your handling code here:
+login l=new login();
+l.setVisible(true);// TODO add your handling code here:
     }//GEN-LAST:event_jToggleButton1ActionPerformed
 
     private void jToggleButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton3ActionPerformed
